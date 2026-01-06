@@ -5,7 +5,7 @@
 ![Module](https://img.shields.io/badge/Module-Réseaux_Informatiques-orange?style=for-the-badge)
 
 > **Étudiant :** [Boustane Oussama](https://www.linkedin.com/in/oussama-boustane-22a990298/)  
-> **Contexte :** Projet de Fin de Module (Fès, Janvier 2026)  
+> **Contexte :** Projet de Fin de Module (Casablanca, Janvier 2026)  
 > **Sujet :** Conception d'une infrastructure multisites sécurisée et redondante.
 
 ---
