@@ -54,6 +54,19 @@ Le réseau s'articule autour d'une architecture hiérarchique comprenant une zon
 
 ---
 
+## 💻 Configurations IOS (Scripts)
+
+Pour une transparence technique totale, les fichiers de configuration ("Running Config") des équipements principaux sont accessibles ici :
+
+| Équipement | Type | Lien vers la config |
+| :--- | :--- | :--- |
+| **R1** | Routeur Central | [📄 Voir le script R1](configs/R1.txt) |
+| **S1** | Switch Distribution | [📄 Voir le script S1](configs/S1.txt) |
+| **R2** | Routeur WAN | [📄 Voir le script R2](configs/R2.txt) |
+| **R3** | Routeur Distant | [📄 Voir le script R3](configs/R3.txt) |
+
+---
+
 ## 🚀 Preuves de Fonctionnement & Analyse
 
 ### ✅ Test 1 : Connectivité End-to-End (Ping)
@@ -84,10 +97,10 @@ Le réseau s'articule autour d'une architecture hiérarchique comprenant une zon
 
 ## 📂 Structure du Dépôt
 
-* `projet_final.pkt` : Le fichier source Cisco Packet Tracer (téléchargeable pour tests).
+* `projet_final.pkt` : Le fichier source Cisco Packet Tracer.
+* `/configs` : Dossier contenant les scripts IOS (.txt).
 * `topologie.png` : Vue d'ensemble de l'architecture.
 * `ping.png` / `tracert.png` : Captures des tests de validation.
-* `routage.png` : Preuve de configuration Layer 3.
 
 ---
 *Projet réalisé avec rigueur académique.*
