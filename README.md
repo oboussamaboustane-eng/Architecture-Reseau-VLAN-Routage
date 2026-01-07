@@ -98,7 +98,7 @@ Pour une transparence technique totale, les fichiers de configuration ("Running 
 ## 📂 Structure du Dépôt
 
 * `projet_final.pkt` : Le fichier source Cisco Packet Tracer.
-* `/configs` : Dossier contenant les scripts IOS (.txt).
+* `/configs` : Dossier contenant les scripts (.txt).
 * `topologie.png` : Vue d'ensemble de l'architecture.
 * `ping.png` / `tracert.png` : Captures des tests de validation.
 
