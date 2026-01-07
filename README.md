@@ -103,4 +103,4 @@ Pour une transparence technique totale, les fichiers de configuration ("Running 
 * `ping.png` / `tracert.png` : Captures des tests de validation.
 
 ---
-*Projet réalisé avec rigueur académique.*
+*Projet académique.*
